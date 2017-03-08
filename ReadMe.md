@@ -12,8 +12,7 @@ Masters of Science in Information Systems | GPA 3.58/4.00 | August 2016 – July
  - Big Data Infrastructure – Hadoop, MapReduce
  - Database Management Systems – Oracle SQL
  
-Masters of Science in Biology | GPA 3.46/4.00 | January 2013 – May 2015
-
+Masters of Science in Biology | GPA 3.46/4.00 | January 2013 – May 2015										  
 Bachelors of Biology | August 2008 – December 2012
 
 ### PROFESSIONAL EXPERIENCE
@@ -31,7 +30,7 @@ Georgia State University
 
 
 ### PROJECTS
-Kaggle
+Kaggle										  
 *Airbnb New User Bookings* | February 2017 – February 2017
 * Prepared and analyzed 275K+ user data points using Excel and Python
 * Created data frames and visualization components using pandas, numpy, matplotlib.pyplot, and seaborn 
