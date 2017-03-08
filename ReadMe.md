@@ -32,22 +32,22 @@ Georgia State University
 
 ### PROJECTS
 Kaggle
-Airbnb New User Bookings | February 2017 – February 2017
+*Airbnb New User Bookings* | February 2017 – February 2017
 * Prepared and analyzed 275K+ user data points using Excel and Python
 * Created data frames and visualization components using pandas, numpy, matplotlib.pyplot, and seaborn 
 * Interpreted data behavior and applied decision tree model to predict destination of travel for new users
 * https://github.com/ttran48/Airbnb-Predictive-Analysis
 
 Georgia State University										   
-Neo4j Movies Database Project | February 2017 – February 2017
+*Neo4j Movies Database Project* | February 2017 – February 2017
 * Prepared unstructured data, databases and assembled 50+ relationships using CQL
 * Developed neural net for analysis
 
-2016 Presidential Election, Hadoop Project – Team Leader | November 2016 – November 2016
+*2016 Presidential Election, Hadoop Project – Team Leader* | November 2016 – November 2016
 * Performed Sentiment Analysis utilizing Cloudera, KNIME, Twitter API and MPQA lexicon 
 * Mined social network text and created customized Tableau visualization reports 
 
-Connect.Database(‘H1b’) Project – Team Leader | October 2016 – November 2016
+*Connect.Database(‘H1b’) Project – Team Leader* | October 2016 – November 2016
 * Managed project plans, milestones and tasks necessary to deliver on time and in scope
 * Designed, normalized to 3rd normal form, and developed snowflake database schema 
 * Utilized Oracle SQL DML and DDL to create entities, assign attributes, and manipulate data
